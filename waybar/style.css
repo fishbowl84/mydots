@@ -1,0 +1,131 @@
+* {
+	font-family: JetBrainsMonoNerdFont;
+	font-size: 11px;
+
+}
+
+window.top#waybar {
+	border-radius: 9px;
+	background: rgba(24,24,24,0.7) ;
+	opacity: 1;
+	color: #ffffff;
+	transition-duration: 0.5s;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+#workspaces {
+	border-radius: 11px;
+	margin-top: 1px;
+	padding-right: 4px;	
+	padding-left: 4px;
+	margin-bottom: 1px;
+	background-color: #593fd0;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #ffffff;
+	opacity: 1;
+}
+
+#clock {
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding-left: 4px;
+	padding-right: 4px;	
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+#pulseaudio {
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding-left: 4px;
+	padding-right: 4px;	
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+
+#battery {
+	margin-top: 3px;
+	margin-left:4px;
+	margin-right:4px;
+	margin-bottom: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+
+#custom-launcher {
+	padding-left:10px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left:6px;
+	margin-right:6px;
+	padding-left: 4px;
+	padding-right: 4px;	
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+
+
+#custom-discord {
+	padding-left:10px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left:6px;
+	margin-right:6px;
+	padding-left: 4px;
+	padding-right: 4px;	
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+
+
+#custom-firefox {
+	padding-left:10px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left:6px;
+	margin-right:6px;
+	padding-left: 4px;
+	padding-right: 4px;	
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+
+
+#custom-terminal {
+	padding-left:10px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left:6px;
+	margin-right:6px;
+	padding-left: 4px;
+	padding-right: 4px;	
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+
+
+
+
+
+	
+
+
+
+

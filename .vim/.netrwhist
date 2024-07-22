@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/leo/.config/waybar'
+let g:netrw_dirhist_7='/home/leo/.config/fuzzel'
+let g:netrw_dirhist_6='/home/leo/.config/waybar'
+let g:netrw_dirhist_5='/home/leo/code/cpp/start/for'
+let g:netrw_dirhist_4='/home/leo/code/cpp/start/simplecalculator'
+let g:netrw_dirhist_3='/home/leo/.config/starship.toml'
+let g:netrw_dirhist_2='/home/leo/code/cpp/start/simplecalculator'
+let g:netrw_dirhist_1='/home/leo/gimp'
