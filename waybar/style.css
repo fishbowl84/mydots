@@ -61,6 +61,35 @@ window.top#waybar {
 	border-bottom-color:#ffffff;
 }
 
+#temperature {
+	margin-top: 3px;
+	margin-left:4px;
+	margin-right:4px;
+	margin-bottom: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+
+
+
+
+#memory {
+	margin-top: 3px;
+	margin-left:4px;
+	margin-right:4px;
+	margin-bottom: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+
 #custom-launcher {
 	padding-left:10px;
 	margin-top: 3px;
@@ -121,6 +150,34 @@ window.top#waybar {
 }
 
 
+#custom-vim {
+	padding-left:10px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left:6px;
+	margin-right:6px;
+	padding-left: 4px;
+	padding-right: 4px;	
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
+
+
+#hyprland-window {
+	padding-left:10px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left:6px;
+	margin-right:6px;
+	padding-left: 4px;
+	padding-right: 4px;	
+	opacity: 1;
+	border-bottom-style:double;
+	border-bottom-width:3px;
+	border-bottom-color:#ffffff;
+}
 
 
 

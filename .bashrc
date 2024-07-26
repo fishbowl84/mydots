@@ -14,16 +14,16 @@ export QT_QPA_PLATFORMTHEME=wayland
 
 alias v=vim
 alias cl=clear
-alias fetch=neofetch
-
+alias f=neofetch
 
 #wal -Re 
 clear
 
 eval "$(starship init bash)" 
 
+cfonts "terminal" -g magenta,red -itf tiny
 #colorscript -e elfman
-pokemon-colorscripts --name dragapult
+#pokemon-colorscripts --name dragapult
 
 
 
